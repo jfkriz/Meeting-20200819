@@ -7,7 +7,7 @@ will typically care about:
 1. [app.js](./app.js) - this is where you will implement any exercise or kata we discuss duing the meetup
 2. [app.test.js](./app.test.js) - this is a jest unit test file for app.js
 
-There is a third file, [index.js](./index.js), which simply calls out to the `function1()` function in app.js. This can be useful if you want to run your code as a command-line program. 
+There is a third file, [index.js](./index.js), which simply calls out to the `doAllTheThings()` function in app.js. This can be useful if you want to run your code as a command-line program. 
 
 ## Prerequisites
 
