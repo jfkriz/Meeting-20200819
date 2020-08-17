@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "testWatcher": "jest --watchAll",
     "start": "node index.js"
   },
   "author": "Ingage Partners",
